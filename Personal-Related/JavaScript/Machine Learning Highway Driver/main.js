@@ -8,7 +8,7 @@ const networkCtx = networkCanvas.getContext("2d");
 
 const road=new Road(carCanvas.width/2,carCanvas.width*0.9);
 
-const playerCar=true
+var playerCar=true
 const BrainitemSlot="bestBrain3"
 
 //  bestBrain - training base,
@@ -31,6 +31,10 @@ const traffic=[]
 
 generateTraffic();
 animate(null,true);
+
+function playerFocusSwitch(){
+    playerCar=playerCar?false:true
+}
 
 function save(){
     localStorage.setItem(BrainitemSlot,

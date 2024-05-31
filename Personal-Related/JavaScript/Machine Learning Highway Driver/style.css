@@ -18,6 +18,7 @@ button{
     padding: 5px 5px 7px 5px;
     margin: 2px;
     cursor: pointer;
+    font-weight: bolder;
 }
 button:hover{
     background: blue;
@@ -31,7 +32,7 @@ button:hover{
   .slider {
     -webkit-appearance: none;  /* Override default CSS styles */
     appearance: none;
-    width: 250%; /* Full-width */
+    width: 360%; /* Full-width */
     height: 10px; /* Specified height */
     background: #d3d3d3; /* Grey background */
     outline: none; /* Remove outline */
