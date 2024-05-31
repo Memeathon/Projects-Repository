@@ -19,11 +19,11 @@ const cars=generateCars(N,true);
 let bestCar=cars[0];
 if(localStorage.getItem(BrainitemSlot)){
     for(let i=0;i<cars.length;i++){
-        cars[i].brain=JSON.parse(
-            localStorage.getItem(BrainitemSlot));
-        if(i!=0 && playerCar?i!=cars.length-1:1){
-            NeuralNetwork.mutate(cars[i].brain,0)
-        }
+        cars[i].brain=JSON.parse(brainStorage)
+            //localStorage.getItem(BrainitemSlot));
+        //if(i!=0 && playerCar?i!=cars.length-1:1){
+         //   NeuralNetwork.mutate(cars[i].brain,0)
+        //}
     }
 }
 
