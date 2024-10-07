@@ -1,0 +1,14 @@
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\bin\Debug\net8.0\HermesHub.deps.json
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\bin\Debug\net8.0\HermesHub.dll
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\bin\Debug\net8.0\HermesHub.pdb
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\HermesHub.csproj.AssemblyReference.cache
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\Avalonia\resources
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\HermesHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\HermesHub.AssemblyInfoInputs.cache
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\HermesHub.AssemblyInfo.cs
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\HermesHub.csproj.CoreCompileInputs.cache
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\Avalonia\HermesHub.dll
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\Avalonia\HermesHub.pdb
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\refint\Avalonia\HermesHub.dll
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Debug\net8.0\ref\HermesHub.dll

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempConverter", "HermesHub\TempConverter.csproj", "{DBE72EA7-7C72-453B-9EF3-B430AB35C9D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempConverter.Android", "HermesHub.Android\TempConverter.Android.csproj", "{988E2D85-DE78-4FCD-B374-6B0348743444}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempConverter.Browser", "HermesHub.Browser\TempConverter.Browser.csproj", "{67056B95-3393-4A4F-BEC8-DAA136213F4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempConverter.Desktop", "HermesHub.Desktop\TempConverter.Desktop.csproj", "{62FB83F8-1974-4B01-8F31-F3812883F5BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TempConverter.iOS", "HermesHub.iOS\TempConverter.iOS.csproj", "{C7A21EDC-CD8E-49C3-B5BD-DA49D5763948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE72EA7-7C72-453B-9EF3-B430AB35C9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE72EA7-7C72-453B-9EF3-B430AB35C9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE72EA7-7C72-453B-9EF3-B430AB35C9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE72EA7-7C72-453B-9EF3-B430AB35C9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988E2D85-DE78-4FCD-B374-6B0348743444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988E2D85-DE78-4FCD-B374-6B0348743444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988E2D85-DE78-4FCD-B374-6B0348743444}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{988E2D85-DE78-4FCD-B374-6B0348743444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988E2D85-DE78-4FCD-B374-6B0348743444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988E2D85-DE78-4FCD-B374-6B0348743444}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{67056B95-3393-4A4F-BEC8-DAA136213F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67056B95-3393-4A4F-BEC8-DAA136213F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67056B95-3393-4A4F-BEC8-DAA136213F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67056B95-3393-4A4F-BEC8-DAA136213F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FB83F8-1974-4B01-8F31-F3812883F5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FB83F8-1974-4B01-8F31-F3812883F5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FB83F8-1974-4B01-8F31-F3812883F5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FB83F8-1974-4B01-8F31-F3812883F5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A21EDC-CD8E-49C3-B5BD-DA49D5763948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A21EDC-CD8E-49C3-B5BD-DA49D5763948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A21EDC-CD8E-49C3-B5BD-DA49D5763948}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C7A21EDC-CD8E-49C3-B5BD-DA49D5763948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A21EDC-CD8E-49C3-B5BD-DA49D5763948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A21EDC-CD8E-49C3-B5BD-DA49D5763948}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B5A13EC-0FBE-4D11-BC79-3FE677098C8B}
+	EndGlobalSection
+EndGlobal

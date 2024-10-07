@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "4jPJiH+uIfw=",
+  "success": true,
+  "projectFilePath": "C:\\Coding Projects\\Python\\Hermes\\HermesHub\\HermesHub\\TempConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafil\\.nuget\\packages\\avalonia\\11.1.0\\avalonia.11.1.0.nupkg.sha512",
+    "C:\\Users\\rafil\\.nuget\\packages\\avalonia.buildservices\\0.0.29\\avalonia.buildservices.0.0.29.nupkg.sha512",
+    "C:\\Users\\rafil\\.nuget\\packages\\avalonia.fonts.inter\\11.1.0\\avalonia.fonts.inter.11.1.0.nupkg.sha512",
+    "C:\\Users\\rafil\\.nuget\\packages\\avalonia.remote.protocol\\11.1.0\\avalonia.remote.protocol.11.1.0.nupkg.sha512",
+    "C:\\Users\\rafil\\.nuget\\packages\\avalonia.themes.fluent\\11.1.0\\avalonia.themes.fluent.11.1.0.nupkg.sha512",
+    "C:\\Users\\rafil\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
+    "C:\\Users\\rafil\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\rafil\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

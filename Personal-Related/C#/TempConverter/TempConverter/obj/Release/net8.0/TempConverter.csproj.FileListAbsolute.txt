@@ -1,0 +1,14 @@
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\bin\Release\net8.0\TempConverter.deps.json
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\bin\Release\net8.0\TempConverter.dll
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\bin\Release\net8.0\TempConverter.pdb
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\TempConverter.csproj.AssemblyReference.cache
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\Avalonia\Resources.Inputs.cache
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\Avalonia\resources
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\TempConverter.AssemblyInfoInputs.cache
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\TempConverter.AssemblyInfo.cs
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\TempConverter.csproj.CoreCompileInputs.cache
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\Avalonia\TempConverter.dll
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\Avalonia\TempConverter.pdb
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\refint\Avalonia\TempConverter.dll
+C:\Coding Projects\Python\Hermes\HermesHub\HermesHub\obj\Release\net8.0\ref\TempConverter.dll
